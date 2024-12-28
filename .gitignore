@@ -1,0 +1,10 @@
+# Ignore the pycaches
+__pycache__/
+cache/
+*.pyc
+
+# Ignore the database
+*.db
+
+# Ignore the logging file 
+*.log
